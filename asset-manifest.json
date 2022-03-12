@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.3126becb.js",
-    "static/js/500.26074261.chunk.js": "/static/js/500.26074261.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.3126becb.js.map": "/static/js/main.3126becb.js.map",
-    "500.26074261.chunk.js.map": "/static/js/500.26074261.chunk.js.map"
+    "main.css": "/kira-racing-site/static/css/main.073c9b0a.css",
+    "main.js": "/kira-racing-site/static/js/main.502ec2c6.js",
+    "static/js/500.26074261.chunk.js": "/kira-racing-site/static/js/500.26074261.chunk.js",
+    "index.html": "/kira-racing-site/index.html",
+    "main.073c9b0a.css.map": "/kira-racing-site/static/css/main.073c9b0a.css.map",
+    "main.502ec2c6.js.map": "/kira-racing-site/static/js/main.502ec2c6.js.map",
+    "500.26074261.chunk.js.map": "/kira-racing-site/static/js/500.26074261.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3126becb.js"
+    "static/js/main.502ec2c6.js"
   ]
 }
