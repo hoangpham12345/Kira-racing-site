@@ -2,7 +2,7 @@
   "name": "kira-racing-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hoangpham12345.github.io",
+  "homepage": "https://hoangpham12345.github.io/kira-racing-site/",
   "dependencies": {
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
